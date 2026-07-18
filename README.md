@@ -1,25 +1,25 @@
-# 🧠 Mental Health in Technology Companies
+# Mental Health in Technology Companies
 
 An end-to-end data analytics project exploring workplace mental health in the technology industry using Python. This project applies exploratory data analysis (EDA) and statistical analysis to evaluate workplace mental health support and identify factors associated with professional mental health treatment and work interference.
 
 ---
 
-# 📑 Table of Contents
+# Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Business Questions](#-business-questions)
-- [Dataset](#-dataset)
-- [Tools & Technologies](#-tools--technologies)
-- [Project Workflow](#-project-workflow)
-- [Exploratory Data Analysis](#-exploratory-data-analysis)
-- [Statistical Analysis](#-statistical-analysis)
-- [Key Findings](#-key-findings)
-- [Business Recommendations](#-business-recommendations)
-- [Repository Structure](#-repository-structure)
-- [Skills Demonstrated](#-skills-demonstrated)
+- [Project Overview](#project-overview)
+- [Business Questions](#business-questions)
+- [Dataset](#dataset)
+- [Tools & Technologies](#tools--technologies)
+- [Project Workflow](#project-workflow)
+- [Exploratory Data Analysis](#-xploratory-data-analysis)
+- [Statistical Analysis](#statistical-analysis)
+- [Key Findings](#key-findings)
+- [Business Recommendations](#business-recommendations)
+- [Repository Structure](#repository-structure)
+- [Skills Demonstrated](#skills-demonstrated)
 ---
 
-# Project Overview
+# Project Overview 
 
 Mental health has become an increasingly important issue in the technology industry, where demanding workloads, high-pressure environments, and rapid innovation can significantly affect employee well-being and productivity.
 
