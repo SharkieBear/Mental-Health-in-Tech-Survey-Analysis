@@ -118,7 +118,7 @@ The dataset contains employee survey responses regarding workplace mental health
 
 ---
 
-# 🔄 Project Workflow
+# Project Workflow
 
 ```text
 Raw Dataset
@@ -206,7 +206,7 @@ The project also examines:
 
 ---
 
-# 📈 Statistical Analysis
+# Statistical Analysis
 
 To identify variables associated with employee mental health outcomes, statistical association analysis is conducted using:
 
@@ -291,7 +291,7 @@ The analysis suggests several organizational priorities:
 
 ---
 
-# 💼 Business Recommendations
+# Business Recommendations
 
 Based on the analysis, organizations should consider:
 
@@ -303,7 +303,7 @@ Based on the analysis, organizations should consider:
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```text
 mental-health-tech-analysis/
