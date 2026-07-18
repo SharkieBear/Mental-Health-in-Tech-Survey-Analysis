@@ -85,7 +85,7 @@ Analytical findings are translated into practical recommendations that organizat
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 **Dataset:** Mental Health in Tech Survey
 
